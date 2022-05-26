@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+   <head>
+
+      <title>DOCUMENT</title>
+
+   </head>
+
+      <body style="background-color: lightblue;">
+
+      <h1 style="font-family: Droid Serif ; font-style: italic; font-size: 30px;">WATER</h1>
+
+      <h2 style="font-family: Times New Roman ; font-style: italic; font-size: 20px;">WHAT IS WATER?</h2>
+
+       <h3 style="font-family: Times New Roman ; font-style: italic; font-size: 20px;">USES OF WATER</h3>
+
+       <h4 style="font-family: Times New Roman ; font-style: italic; font-size: 20px;">TYPES  OF WATER</h4>
+
+       <p><b><i>What is Water?</i></b></p>
+
+       <p>Water is the liquid form of any clear substance that is colorless,odorless and tasteless.</p>
+
+       <p><b><i>Uses of Water</i></b></p>
+
+       <p>1.Water is used for cooking</p>
+
+          2.We drink Water</p>
+
+          3.We bath with water.</p>
+
+          4.Water makes us healthy. e.t.c</p>
+
+       <p><b><i>Types of Water</i></b></p>
+
+       1.Rain water</p>
+
+       2.Tap water</p>
+
+       3.Miniral water</p>
+
+       4.Spring or glacier water</p>
+
+       5.Well water</p>
+
+       6.Distilled water</p>
+
+       7.Alkaline water</p>
+
+       8.Hard water e.t.c</p>
+
+       <a href="http://www.aqua.com">Visit"http://www.aqua.com"</a>to know more about water.
+
+      </body>
+
+      </html>
+
+
+
+      
